@@ -1,0 +1,7 @@
+{
+  "name": "ElevenLab Studio",
+  "description": "Modern digital agency delivering websites, e-commerce, branding, design, SEO and custom digital solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
